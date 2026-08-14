@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**devianns/devianns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Dahlia Verse</h1>
 
-Here are some ideas to get you started:
+<p>
+  라이브 방송과 클립, 소식을 아래 채널에서 확인할 수 있습니다.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<a href="https://www.sooplive.com/station/rose5369"><img src="https://img.shields.io/badge/SOOP-꼬리리-1769FF?style=for-the-badge" alt="SOOP"></a>
+<a href="https://www.youtube.com/@dahlia-clip"><img src="https://img.shields.io/badge/YouTube-달리아 클립-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://x.com/dahlia_clip"><img src="https://img.shields.io/badge/X-@dahlia__clip-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+</p>
+
+</div>
