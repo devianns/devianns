@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Dahlia Verse</h1>
+<h1>DAHLIAVERSE</h1>
 
 <p>
   Check out live broadcasts, clips, and updates on the channels below.
