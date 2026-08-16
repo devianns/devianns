@@ -3,7 +3,7 @@
 <h1>Dahlia Verse</h1>
 
 <p>
-  라이브 방송과 클립, 소식을 아래 채널에서 확인할 수 있습니다.
+  Check out live broadcasts, clips, and updates on the channels below.
 </p>
 
 <p>
